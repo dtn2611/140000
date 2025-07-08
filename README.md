@@ -40,6 +40,6 @@
 
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] ( https://github.com/dtn2611/140000 ）</span>
 
 
